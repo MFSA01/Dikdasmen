@@ -53,14 +53,10 @@ Untuk informasi lebih detail tentang fitur dan cara penggunaan, silakan baca bag
 Kami menyambut kontribusi dari semua orang! Jika Anda ingin berkontribusi pada project ini:
 
 1. Fork repository ini
-2. Buat branch fitur (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
+2. Buat branch fitur 
+3. Commit perubahan Anda 
+4. Push ke branch 
 5. Buka Pull Request
-
-## 📝 Lisensi
-
-Project ini belum memiliki lisensi yang dispesifikasikan. Silakan tambahkan lisensi yang sesuai untuk project Anda.
 
 ## 📧 Kontak
 
